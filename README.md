@@ -1,4 +1,5 @@
 # CodeSearch
+#### This is a text search engine library written in Scala and Akka. It is a custom implementation which provides fast (subsecond query time) keyword search over a git repoistory's source code. When a word or phrase is given, relevant code snippets and their corresponding source files show up as results.
 
 Steps to compile and execute the code
 
